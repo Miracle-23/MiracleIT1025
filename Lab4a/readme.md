@@ -26,7 +26,7 @@ JPG file is an image format that uses lossy compression to create smaller files,
 Operating Systems
 Upload screenshots for Operating System tasks to github
 
-Logo
+Logo 
 
 Upload your logo image that you created from the Graphics Tasks 
 
