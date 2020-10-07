@@ -1,7 +1,7 @@
 Executive Summary
 
 Update this section for this lab explaining the purpose of the lab
-The purpose of this lab is to learn about windows, Apple, Vector, and Raster Graphics
+The purpose of this lab is to learn about windows, Apple, Vector, and Raster Graphics and etc.
 
 Graphics
 
@@ -31,7 +31,7 @@ Logo
 Upload your logo image that you created from the Graphics Tasks
 
 Explain your image design including how many "layers" were required
-The layers that were required with the logo I designed is 4 because I added a rectangle at the top, middle, bottom and the text that says "Miracle's Coffee shop".
+The layers that were required with the logo I designed is 4 because I added a rectangle at the top, middle, bottom and the text that says "MIRACLE'S PIZZA SHOP".
 
 Right-click on your svg image file, select "properties" and report the file size and what application it "opens with." What application might be more appropriate and why (click the "change" button for options)
 The file size is 312KB (320,090 bytes). The file size on disk is 316KB (323,584 bytes). The application that will be more appropriate is window photo viewer. 
