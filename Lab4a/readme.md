@@ -28,7 +28,7 @@ Upload screenshots for Operating System tasks to github
 
 Logo
 
-Upload your logo image that you created from the Graphics Tasks
+Upload your logo image that you created from the Graphics Tasks 
 
 Explain your image design including how many "layers" were required
 The layers that were required with the logo I designed is 4 because I added a rectangle at the top, middle, bottom and the text that says "MIRACLE'S PIZZA SHOP".
