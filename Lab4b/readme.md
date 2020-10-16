@@ -7,19 +7,26 @@ Create a new blank diagram (ignore message boxes to upgrade) and create a flowch
 
 prints "Big" if the number is greater than 10
 prints "Small" if the number is less than 10. Use the following resource (or one of your choice) as a guide: https://www.tutorialspoint.com/programming_methodologies/programming_methodologies_flowchart_elements.htm Add a textbox to the chart with your name
+
 Download your chart as a jpg file and name it: DecisionFlowchart and upload the file to your GitHub lab folder
 
 Share your experience using Lucidchart in a paragraph (3-4 lines)
+Lucidchart is almost like programming but instead it justs keep all your work organized.
+Lucidchart can be quiet confusing using it for the very first time but with practice you'll get used to it.
+Lucidchart is a good way to keep your idea organized and it is good for basic step by step instructions.
 
 Networking
+
 Intro to Networking
+
 Data Transmission
 
 Match the following words with their definitions
 
 Words:
 
-Packet
+Packet-Packet is the fundamental unit of data transmitted over the internet.  When a host (PC, workstation, server, printer, etc.) intends to send a message to another host (for example, your PC sends a request to YouTube to open a video), it breaks the message down into smaller pieces, called packets.
+
 Packet-Switching
 IP Address
 DNS
