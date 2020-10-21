@@ -14,9 +14,13 @@ Explain ACL and RBAC. What are the advantages and disadvantages of each?
 ACL and RBAC is when you communicate in a secret way so no one can understand what you are saying. The advantage is that outsiders won't understand what we are talking about and the disadvantages is if one of the people forget how the secret alphabet works or if the hacker suprisingly break our riddle and then understands what is going on.
 
 Explain the interaction of ciphertext, a public key and a private key
+Ciphertext is when a normal text is changed into something normal people can't understand, Public key is a key that can be given to anyone to access data's and Private keys are keys that is kept private so no other person can get an important data. 
 
 Explain why we need public key cryptography.
+We need public key crytography because if we want to present something to a group we would use public key instead of private key.
+
 Cryptography
+
 Type a message in the "Caesar Cipher Exploration box and turn the wheel to encrypt your message. Then explain the encryption here:
 
 Type a message in the "Frequency Fingerprint Exploration" box and a) Explain the result. b) Would it be different for different languages?
