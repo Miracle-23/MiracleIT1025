@@ -28,10 +28,14 @@ Type a message in the "Frequency Fingerprint Exploration" box and a) Explain the
 what I typed in is "secretkeyisstrong"and the difference between them is that the more I type letters the more the bar get bigger.
 
 What is a "Polyalphabetic cipher?" Type a message in the "Polyalphabetic Exploration" box as well as a shift word. Explain the result.
+I typed in "publicandsecretkey" in Polyalphabetic Exploration and it gave the same result as "Frequency Fingerprint Exploration" but the bars was just smaller. 
 
 Brute Force
+
 What is Brute-Force and how does it relate to Kerckhoffs's principle?
+Brute-Force is someone that tries their very best to get someone password and it is related to kerckhoff principle because the principle makes up a fake password letting the hacker think they are right.
+
 Conclusion
+
 Summarize how this lab was useful to you and what you learnt that really interested you!
-
-
+This lab was useful to me because it lets me know that my information and it teaches me to be aware of online hackers which mean I have to keep all my passwords and personal information safe.
