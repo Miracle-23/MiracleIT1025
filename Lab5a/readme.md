@@ -22,8 +22,10 @@ We need public key crytography because if we want to present something to a grou
 Cryptography
 
 Type a message in the "Caesar Cipher Exploration box and turn the wheel to encrypt your message. Then explain the encryption here:
+secretkey and it tansformed into ugetgvmga
 
 Type a message in the "Frequency Fingerprint Exploration" box and a) Explain the result. b) Would it be different for different languages?
+what I typed in is "secretkeyisstrong"and the difference between them is that the more I type letters the more the bar get bigger.
 
 What is a "Polyalphabetic cipher?" Type a message in the "Polyalphabetic Exploration" box as well as a shift word. Explain the result.
 
