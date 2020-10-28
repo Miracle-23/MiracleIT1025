@@ -10,12 +10,12 @@ An IP address (Internet Protocol address)  are the numbers assigned to computer 
 Find the IP address of your computer by typing ipconfig at the command prompt (refer back to the "Operating Systems" module for details.) Take a screenshot of the command without including the IP address to show your success, name the file ipconfig and upload to the lab folder on GitHub.
 
 What is ICANN and how do they contribute to the global Internet?
+ICANN (Internet Corporation for Assigned Names and Numbers) ICANN mission is to ensure a stable and unified global Internet. Without them we wouldn't have one internet.
 
 TCP/IP
-
 Review the first article and answer these questions:
-
 What is the responsibility of TCP/IP?
+The responsibility of TCP/IP address is to make sure the numbers that enable our computers, servers, telephones, cameras, printers and sensors are able to communicate with each other.
 
 Explain how the client-server model applies to TCP/IP.
 
