@@ -18,12 +18,14 @@ What is the responsibility of TCP/IP?
 The responsibility of TCP/IP address is to make sure the numbers that enable our computers, servers, telephones, cameras, printers and sensors are able to communicate with each other.
 
 Explain how the client-server model applies to TCP/IP.
+The client-server model applies to TCP/IP because that is how they will carry out their conversation.
 
 Review the second article and answer these questions:
 
 Review the section of the article aligning the post office with protocol stacks.
 
 Why are layers important to changing technology?
+Layers are important to changing technology because if you mess up on one part you will see how it affects the whole thing.
 
 What types of applications run on the "application" layer?
 
