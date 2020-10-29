@@ -1,5 +1,6 @@
 Executive Summary
 Include your executive summary here...
+As everyday computer users, it is good for us to know that we are protected by "Cybersecurity" but just because we are protected does not mean we become careless whenever we are online. We still have to be very careful because of people that commit frauds and take personal information on the internet.
 
 Internet Architecture
 
@@ -28,20 +29,26 @@ Why are layers important to changing technology?
 Layers are important to changing technology because if you mess up on one part you will see how it affects the whole thing.
 
 What types of applications run on the "application" layer?
+The type of application that run on the application layer is the TCP/IP
 
 Internet Security
 Watch the video and answer these questions:
 
 What is HTTP and how does it support the client-server model?
+HTTP is Hypertext Transfer Protocol and it supports the client-server by making sure tasks are done.
 
 Explain the protocols that secure HTTP uses to protect data.
+The protocol is Hypertext Transfer Protocol and it secures the data by protecting when they're online.
 
 Review the following article: Securing Your Web Browser
+
 Why should you secure your browser?
-You should always secure your browser so all your private information can be safe and most importantly so hackers can't get into it.  
+You should secure your data because users have a tendency to click on links without considering the risks of their actions.
 
 Explain one of the risks described in the article.
+One of the risks described in the article are Plug-ins. Plug-ins are similar to ActiveX controls but cannot be executed outside of a web browser. 
 
 Conclusion
 
 Include your conclusion here...
+We must be careful whenever we are online.
