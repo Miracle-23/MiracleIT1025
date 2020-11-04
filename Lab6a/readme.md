@@ -15,7 +15,10 @@ Pick a site of your choice and read the AUP. Select a policy of interest and rep
 The site of my choice is nike. Link: https://agreementservice.svs.nike.com/us/en_us/rest/agreement?agreementType=termsOfUse&uxId=com.nike.commerce.nikedotcom.web&country=US&language=en&requestType=redirect The policy of my interest that surprises me is the eligibility, I did not know that one have to be an adult in order to use the site.
 
 Intellectual Property
-From the chapter follow the link to the WIPO. What is the purpose and importance of the WIPO?
+
+From the chapter follow the link to the WIPO. What is the purpose and importance of the WIPO? 
+The purpose and importance of WIPO is to lead the development of a balanced and effective international IP system that enables innovation and creativity for the benefit of all.
+
 Using links in the chapter explain how a copyright is obtained and the benefit of registering for a copyright with the US Copyright Office. Explain why it might be important to copyright the svg image you created.
 If the svg image you created became an item that identifies a source of goods or services, explain the role of a trademark in defining the intellectual property.
 
