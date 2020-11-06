@@ -23,6 +23,7 @@ Using links in the chapter explain how a copyright is obtained and the benefit o
 copyright is obtained by making sure someone work is being used the proper way, the benefit of registering for a copyright is because a registered copyright is needed in order to bring legal action against someone who has used a work without permission. It is important to copyright the svg image you created because it protects your work from any outsiders using it without permission.
 
 If the svg image you created became an item that identifies a source of goods or services, explain the role of a trademark in defining the intellectual property.
+The trademark would have to receive permission from you when they want to use your work; if they don't it would be a copyright.
 
 Information Collection
 Explain how COPPA, FERPA and HIPPA restrict the collection of information on the Internet.
