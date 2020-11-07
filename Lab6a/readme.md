@@ -27,13 +27,18 @@ The trademark would have to receive permission from you when they want to use yo
 
 Information Collection
 Explain how COPPA, FERPA and HIPPA restrict the collection of information on the Internet.
+The COPPA (Children’s Online Privacy Protection Act) protects children and users under 13, FERPA (Family Educational Rights and Privacy Act) a law that parents have a right to their child’s educational information until the child reaches either the age of eighteen or begins attending school beyond the high school level and HIPAA (Health Insurance Portability and Accountability Act) A law that gives patients specific rights to control their medical records.
 
 URLs and File Paths
 Match the following terms / definitions under the heading and explain how they are related by providing an example of all of the pieces of a URL: Terms: scheme, domain, top level domain, default page, parameters, anchor Definitions/examples: .edu, no file path provided, result of search, https, www.amazon.com, specific location on a page.
+Scheme-Specific location on a page. (coming up with an idea to build the page). Domain-result of search. (address of a specific search) top level domain-amazon.com. (When you search for a site and it takes you there directly that is the biggest place you can be). default page-no file path provided. parameters-.edu. anchor-https 
 
 What is your understanding of difference between Absolute and Relative File Paths. What would you use in your website? Why?
+Absolute path have the root element and the complete directory list required to locate the file and Relative file path. I would use Absolute file path because all my work would not look the same.
 
 Explain the purpose and use of file compression.
+File compression is useful to reduce the size of a file whenever it gets too big so space will be available.
 
 Conclusion
 Include your conclusion here...
+It is good to knw that we have copyright law so we cannot copy each other work and idea without the owner approval. If ideas are being constantly taken then things wouldn't be right. 
