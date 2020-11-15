@@ -17,7 +17,10 @@ Why do we use Cascading Style Sheets (CSS) in Web Programming?
 We use CSS in web programming because it would let us lay our idea and see where we are right and wrong at.
 
 Explain how XML differs from HTML.
+XML is easier than HTML because it gives rules for encoding documents. HTML is a code that will be presented in web browser and other online places so that will require more time and patience.
 
 What is the advantage of JSON over XML?
+JSON is better than XML because it does not require a lot, although XML is easy as well it still requires a lot of things than JSON.
 
 Conclusion
+Coding might seem overwhelming and hard but it really isn't, it just requres a lot of time and practice.
