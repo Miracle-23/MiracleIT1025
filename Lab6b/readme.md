@@ -14,6 +14,7 @@ What is the purpose of Hypertext Markup Language in Web Programming?
 The purpose of Hypertext Markup Language is to tell the browser how to display the content and to label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc. 
 
 Why do we use Cascading Style Sheets (CSS) in Web Programming?
+We use CSS in web programming because it would let us lay our idea and see where we are right and wrong at.
 
 Explain how XML differs from HTML.
 
