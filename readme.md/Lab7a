@@ -10,18 +10,24 @@ Data can be quantitative or qualitative. Quantitative data is numeric, the resul
 If you were creating a database for a small company and two tables you identify are customers and orders explain the following: (be sure to use the example in the chapter as a guide - customers and orders would be like clubs and events) 
 
 a) What would be the primary key in the customers and orders table?
-The primary key would be the shipping information of the item they want to buy.
+The primary key would be the shipping information of the item they want to buy. (The key is the unique identifier for each record in the table).
 
 b) How would the customers and orders table be related?
-The customers and order table are related because the customers are the ones maing the orders.
+The customers and order table are related because the customers are the ones maing the orders. (They can be related because that is how they can be identified).
 
 c) What would be the foreign key in the orders table?
+Foreign key connects to the Primary key. (The foreign key points to the primary key) 
 
 d) The orders table would likely have a date field. Explain why it is important to properly define the data type of a field.
+It is important for the order table to have a date field so they can know when they ordered it. it is important to properly define the data type of field so when information like the delivery date is added it will be quickly noticed. 
 
 Big Data
 Briefly describe the four "Vs" of big data
+The four "Vs" of big data is volume, variety, velocity and veracity. 
+
 What types of technology have driven the increased need for big data?
+The technology that have driven the increased need for big data is data brokers, Grindgrain, cloudera and storm.
+
 Structured Query Language (SQL)
 Explain RDBMS and how it relates to SQL and the purpose of SQL
 Pick two related tables from the diagram provided in the "module - SQL" and explain the relationship between them a) which is the primary key? b) which is the foreign key?
