@@ -1,13 +1,19 @@
 Executive Summary
 Talk about what the goal of this lab is !
+The purpose of this lab is being able to describe data, databases, data managment system and all the role they play.
 
 Data, Information and Knowledge
 Relational Data
 What is the difference between data, information and knowledge?
+Data can be quantitative or qualitative. Quantitative data is numeric, the result of a measurement, Information is letting someone know the answer from the Data and Results of information produces knowledge which can be used to make certain decisions. 
 
-If you were creating a database for a small company and two tables you identify are customers and orders explain the following: (be sure to use the example in the chapter as a guide - customers and orders would be like clubs and events) a) What would be the primary key in the customers and orders table?
+If you were creating a database for a small company and two tables you identify are customers and orders explain the following: (be sure to use the example in the chapter as a guide - customers and orders would be like clubs and events) 
+
+a) What would be the primary key in the customers and orders table?
+The primary key would be the shipping information of the item they want to buy.
 
 b) How would the customers and orders table be related?
+The customers and order table are related because the customers are the ones maing the orders.
 
 c) What would be the foreign key in the orders table?
 
