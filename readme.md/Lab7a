@@ -33,10 +33,12 @@ Explain RDBMS and how it relates to SQL and the purpose of SQL
 RDBMS is Relational Database and it relates to SQL because the arrow points each other.
 
 Pick two related tables from the diagram provided in the "module - SQL" and explain the relationship between them a) which is the primary key? b) which is the foreign key?
-Two tables that are related to each other are 
+Two tables that are related to each other are SQL "Alias column syntax" and "Alias table syntax" 
 
 Using W3Schools, try out a a) select statement a) where clause and upload screenshots of the results.
 
 Explain how SQL injections are a security threat and what can be done to reduce the issue.
+SQL injections are a security threat because files and datas can easily be missing. What can be done to reduce the issue is by putting yourself in a hacker shoes and trying different ways to hack a file, if you see a way to get into a file to hack it then look for a solution immediately because that means someone else that is more advanced than you can get in as well. 
+
 Conclusion
 Include what you have learnt from this lab
